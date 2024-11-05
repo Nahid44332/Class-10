@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.color {
+    height: 400px;
+    width: 450px;
+    background-color: rgb(150, 54, 19);
+}

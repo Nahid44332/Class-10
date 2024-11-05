@@ -1,0 +1,13 @@
+=========Css Color Tuune======
+
+1. Color By Name (Red, Green, Yellow, Blue)
+2. Color By Hex Code (#133543 #ba3425)
+3. Color By RGB=> Red Green Blue => rgb(42, 23,0); 0-255
+4. Color By RGBA=> Red, Green, Bluw, Alpha => rgba(45,69, 43, 0.2) 0-1
+5. Linear Gradient Color System => Background-image: Linear-Gradient(red, yellow, #34BC24, rgb(45, 35, 34))
+
+
+Decimal=> 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Binary=> 0, 1
+Octal=> 0, 1, 2, 3, 4, 5, 6, 7
+Hexa Decimal => 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
